@@ -1,5 +1,7 @@
 # Lunar Client Agents
-Various agents that can be used with https://github.com/Nilsen84/lunar-client-qt
+Agents used for https://github.com/cwarter/lunar-client-qt
+Setup Tutorial: https://youtu.be/hYqKidEua4c
+Credits to https://github.com/Nilsen84/ for agents
 
 ## Explanations
 #### CrackedAccount
